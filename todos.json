@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "text": "Learn GitHub",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "text": "Deploy ToDo App",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "text": "Celebrate!",
+        "completed": false
+    }
+]
